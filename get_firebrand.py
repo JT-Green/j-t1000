@@ -5,8 +5,8 @@ from selenium.webdriver.common.action_chains import ActionChains
 driver = webdriver.Chrome(r'C:\Program Files\Chromedriver\chromedriver.exe')
 
 url = "http://tme.firebrandtech.com/WPC/Secure/Login.aspx"
-username = r"jtgreen"
-password = r"Fire044x!"
+username = r"***"
+password = r"***"
 
 url2 = "http://tme.firebrandtech.com/WPC/Dialogs/ReportsPopup.aspx?ListKey=12742073&SearchType=6&ReportDataCode=10&ReportDataSubCode=2&ReportDataSub2Code=3&RunReport=true"
 

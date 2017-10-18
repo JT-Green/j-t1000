@@ -6,8 +6,8 @@ driver = webdriver.Chrome(r'C:\Program Files\Chromedriver\chromedriver.exe')
 login_url = r'https://vendorcentral.amazon.com'
 reports_url = r'https://vendorcentral.amazon.com/st/vendor/members/analytics/basic/productDetail?ref_=vc_ven-badashboard_subNav'
 
-user = 'jt@workman.com'
-pw = 'Workpassword'
+user = '***'
+pw = '***'
 
 driver.get(login_url)
 
